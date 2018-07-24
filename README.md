@@ -6,5 +6,5 @@ RX Java  <br>
 MVP  <br> 
 Kotlin <br> 
 
-![img1](https://i.imgur.com/r6joOkv.png)
-![img2](https://i.imgur.com/jB6jH70.png)
+![img1](https://i.imgur.com/sHYubxE.png)
+![img2](https://i.imgur.com/wmHXvJy.png)
